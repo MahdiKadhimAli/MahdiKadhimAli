@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Flutter , Figma ,Java**
-
 - 📫 How to reach me **yfghvb7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d9%85%da%be%d8%af%d9%8a-%da%aa%d8%a2%d8%b8%d9%85-%d8%8c-3a3080249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d9%85%da%be%d8%af%d9%8a-%da%aa%d8%a2%d8%b8%d9%85-%d8%8c-3a3080249" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pr.mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pr.mahdi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/6.bdd?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/6.bdd?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahdikadhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdikadhim" height="30" width="40" /></a>
+<a href="https://fb.com/pr.mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pr.mahdi" height="30" width="40" /></a>
+<a href="https://instagram.com/6.bdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6.bdd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
